@@ -2,7 +2,7 @@
 title: Home page
 description: 
 published: true
-date: 2023-08-24T15:35:26.718Z
+date: 2023-09-08T10:54:06.918Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T13:05:07.922Z
